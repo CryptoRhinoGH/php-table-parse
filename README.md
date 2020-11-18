@@ -1,5 +1,5 @@
 # php-table
-This is a self made class for making html tables for php developers. I have faced a lot of problems while making html tables, this is a simple way to add data to a table and style it using bootstrap. 
+This is a self made class for making html tables for php developers. I have faced a lot of problems while making html tables, this is a simple way to add data to a table and style it using bootstrap. To run this code you will need a server, XAMPP, MAMP or LAMP or even terminal for OSX and Linux users
 
 IMPORTANT: This uses bootstrap so please include it in your file: SEE EXAMPLE FILE
 
